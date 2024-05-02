@@ -2,6 +2,32 @@
   text-align: center;
 }
 
+.AddTextBar {
+  width: 300px;
+  height: 30px;
+  border-radius: 15px;
+  border: 2px solid green;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+.AddButton {
+margin-left: 20px;
+width: 100px;
+height: 30px;
+border-radius: 15px;
+border: 2px solid green;
+background-color: blue;
+color: white;
+font-size: 15px;
+
+}
+
+.AddButton:hover {
+  background-color: crimson;
+  /* pointer-events: none; */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
