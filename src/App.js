@@ -7,7 +7,7 @@ function TodoList() {
       <h1>Todo List App</h1>
       <div>
       <input className='AddTextBar'  type="text" placeholder="Add a Task..." />
-      <button className="AddButton">Add</button>
+      <button className="AddButton...">Add</button>
       </div>
     </div>
   );
